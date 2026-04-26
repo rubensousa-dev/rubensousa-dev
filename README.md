@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I am a Game Programmer with expertise in Unity 3D and Unreal Engine, proficient in C#, C++, and Blueprints. <br>Currently, I am expanding my skills by learning .NET and full stack technologies.</p>
+<p align="left">I'm a QA Tester with a strong development background in Unity and C#, including PlayStation® Award-winning game development experience. <br>Currently ensuring quality and stability at Infinity Games, with experience spanning game development, wearable apps, and mobile QA.</p>
 
 ###
 
